@@ -1,0 +1,661 @@
+﻿Log file open, 06/26/24 14:52:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: dwarfshooter
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.520364
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +4:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.064s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/unreal engine/project/dwarfshooter/Saved/Config/Windows/Engine.ini]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2024.06.26-11.52.11:727][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:1]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[vr.MonoscopicFarField:0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/unreal engine/project/dwarfshooter/Saved/Config/Windows/Engine.ini]
+[2024.06.26-11.52.11:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/unreal engine/project/dwarfshooter/Saved/Config/Windows/Engine.ini]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/unreal engine/project/dwarfshooter/Saved/Config/Windows/Engine.ini]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.06.26-11.52.11:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/unreal engine/project/dwarfshooter/Saved/Config/Windows/Engine.ini]
+[2024.06.26-11.52.11:728][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/unreal engine/project/dwarfshooter/Saved/Config/Windows/Engine.ini]
+[2024.06.26-11.52.11:730][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/unreal engine/project/dwarfshooter/Saved/Config/Windows/Scalability.ini]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/unreal engine/project/dwarfshooter/Saved/Config/Windows/Scalability.ini]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/unreal engine/project/dwarfshooter/Saved/Config/Windows/Scalability.ini]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/unreal engine/project/dwarfshooter/Saved/Config/Windows/Scalability.ini]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.06.26-11.52.11:730][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/unreal engine/project/dwarfshooter/Saved/Config/Windows/Scalability.ini]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/unreal engine/project/dwarfshooter/Saved/Config/Windows/Scalability.ini]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/unreal engine/project/dwarfshooter/Saved/Config/Windows/Scalability.ini]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.06.26-11.52.11:731][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.06.26-11.52.11:731][  0]LogInit: Selected Device Profile: [Windows]
+[2024.06.26-11.52.11:731][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.06.26-11.52.11:736][  0]LogHAL: Display: Platform has ~ 32 GB [34275819520 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.06.26-11.52.11:736][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2024.06.26-11.52.11:736][  0]LogInit: Going up to parent DeviceProfile []
+[2024.06.26-11.52.11:736][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/unreal engine/project/dwarfshooter/Saved/Config/Windows/Scalability.ini]
+[2024.06.26-11.52.11:736][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.06.26-11.52.11:736][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.06.26-11.52.11:736][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/unreal engine/project/dwarfshooter/Saved/Config/Windows/Scalability.ini]
+[2024.06.26-11.52.11:736][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.06.26-11.52.11:736][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/unreal engine/project/dwarfshooter/Saved/Config/Windows/Scalability.ini]
+[2024.06.26-11.52.11:736][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.06.26-11.52.11:736][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.06.26-11.52.11:736][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.06.26-11.52.11:736][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.06.26-11.52.11:736][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.06.26-11.52.11:736][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.06.26-11.52.11:736][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.06.26-11.52.11:736][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.06.26-11.52.11:736][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.06.26-11.52.11:736][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.06.26-11.52.11:736][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.06.26-11.52.11:736][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.06.26-11.52.11:736][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/unreal engine/project/dwarfshooter/Saved/Config/Windows/Scalability.ini]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/unreal engine/project/dwarfshooter/Saved/Config/Windows/Scalability.ini]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/unreal engine/project/dwarfshooter/Saved/Config/Windows/Scalability.ini]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/unreal engine/project/dwarfshooter/Saved/Config/Windows/Scalability.ini]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.06.26-11.52.11:737][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.06.26-11.52.11:737][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/unreal engine/project/dwarfshooter/Saved/Config/Windows/Engine.ini]
+[2024.06.26-11.52.11:737][  0]LogInit: Computer: DESKTOP-D2D3GEK
+[2024.06.26-11.52.11:737][  0]LogInit: User: julia
+[2024.06.26-11.52.11:737][  0]LogInit: CPU Page size=4096, Cores=6
+[2024.06.26-11.52.11:737][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.06.26-11.52.11:738][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2024.06.26-11.52.11:738][  0]LogMemory: Platform Memory Stats for Windows
+[2024.06.26-11.52.11:738][  0]LogMemory: Process Physical Memory: 104.60 MB used, 104.60 MB peak
+[2024.06.26-11.52.11:738][  0]LogMemory: Process Virtual Memory: 86.16 MB used, 86.16 MB peak
+[2024.06.26-11.52.11:738][  0]LogMemory: Physical Memory: 9957.69 MB used,  22730.28 MB free, 32687.97 MB total
+[2024.06.26-11.52.11:738][  0]LogMemory: Virtual Memory: 4649.23 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2024.06.26-11.52.11:749][  0]LogInit: Using OS detected language (en-US).
+[2024.06.26-11.52.11:749][  0]LogInit: Using OS detected locale (en-US).
+[2024.06.26-11.52.11:749][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2024.06.26-11.52.12:040][  0]LogStreaming: Display: Took  0.291s to InitEngineTextLocalization.
+[2024.06.26-11.52.12:040][  0]LogInit: Setting process to per monitor DPI aware
+[2024.06.26-11.52.12:062][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.06.26-11.52.12:062][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.06.26-11.52.12:313][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.06.26-11.52.12:313][  0]LogD3D11RHI: D3D11 adapters:
+[2024.06.26-11.52.12:440][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2024.06.26-11.52.12:440][  0]LogD3D11RHI:       6043/0/16343 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2024.06.26-11.52.12:442][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.06.26-11.52.12:442][  0]LogD3D11RHI:       0/0/16343 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.06.26-11.52.12:442][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2024.06.26-11.52.12:448][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.06.26-11.52.12:448][  0]LogD3D11RHI:     GPU DeviceId: 0x1b83 (for the marketing name, search the web for "GPU Device Id")
+[2024.06.26-11.52.12:448][  0]LogWindows: EnumDisplayDevices:
+[2024.06.26-11.52.12:448][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2024.06.26-11.52.12:449][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2024.06.26-11.52.12:449][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2024.06.26-11.52.12:449][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2024.06.26-11.52.12:449][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2024.06.26-11.52.12:449][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2024.06.26-11.52.12:449][  0]LogD3D11RHI:   Driver Version: 536.23 (internal:31.0.15.3623, unified:536.23)
+[2024.06.26-11.52.12:449][  0]LogD3D11RHI:      Driver Date: 6-8-2023
+[2024.06.26-11.52.12:449][  0]LogRHI: Texture pool is 4230 MB (70% of 6043 MB)
+[2024.06.26-11.52.12:539][  0]LogD3D11RHI: Async texture creation enabled
+[2024.06.26-11.52.12:556][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2024.06.26-11.52.12:788][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2024.06.26-11.52.12:798][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2024.06.26-11.52.12:807][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2024.06.26-11.52.12:816][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2024.06.26-11.52.12:826][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2024.06.26-11.52.12:835][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2024.06.26-11.52.12:844][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2024.06.26-11.52.12:854][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2024.06.26-11.52.12:857][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2024.06.26-11.52.12:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.06.26-11.52.12:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.06.26-11.52.12:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.06.26-11.52.12:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.06.26-11.52.12:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.06.26-11.52.12:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.06.26-11.52.12:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.06.26-11.52.12:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.06.26-11.52.12:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.06.26-11.52.12:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.06.26-11.52.12:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.06.26-11.52.12:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.06.26-11.52.12:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.06.26-11.52.12:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.06.26-11.52.12:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.06.26-11.52.12:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.06.26-11.52.12:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.06.26-11.52.12:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.06.26-11.52.12:913][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2024.06.26-11.52.12:968][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2024.06.26-11.52.12:968][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2024.06.26-11.52.12:986][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2024.06.26-11.52.12:986][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2024.06.26-11.52.12:995][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2024.06.26-11.52.13:004][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2024.06.26-11.52.13:013][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2024.06.26-11.52.13:023][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2024.06.26-11.52.13:057][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2024.06.26-11.52.13:057][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2024.06.26-11.52.13:057][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.06.26-11.52.13:090][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (../../../../../unreal engine/project/dwarfshooter/Intermediate/Shaders/WorkingDirectory/26540/).
+[2024.06.26-11.52.13:090][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/julia/AppData/Local/Temp/UnrealShaderWorkingDir/56C3A7E641928C8D0A58418B3B02EFF0/'.
+[2024.06.26-11.52.13:091][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.06.26-11.52.13:091][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2024.06.26-11.52.13:091][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2024.06.26-11.52.13:620][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.06.26-11.52.13:661][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/julia/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2024.06.26-11.52.13:661][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/julia/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2024.06.26-11.52.13:662][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../unreal engine/project/dwarfshooter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.06.26-11.52.13:662][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.06.26-11.52.13:662][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../unreal engine/project/dwarfshooter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.06.26-11.52.13:662][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.06.26-11.52.13:677][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.06.26-11.52.13:677][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.06.26-11.52.13:677][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.06.26-11.52.13:689][  0]LogDerivedDataCache: Using Local data cache path C:/Users/julia/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.06.26-11.52.13:689][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.06.26-11.52.13:689][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.06.26-11.52.13:707][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2024.06.26-11.52.13:708][  0]LogSlate: Using FreeType 2.6.0
+[2024.06.26-11.52.13:709][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.06.26-11.52.13:795][  0]LogAssetRegistry: FAssetRegistry took 0.0304 seconds to start up
+[2024.06.26-11.52.14:057][  0]LogInit: Selected Device Profile: [Windows]
+[2024.06.26-11.52.14:169][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2024.06.26-11.52.14:171][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2024.06.26-11.52.14:171][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.06.26-11.52.14:171][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.06.26-11.52.14:171][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2024.06.26-11.52.14:180][  0]LogNetVersion: dwarfshooter 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3777380882)
+[2024.06.26-11.52.14:561][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.059948 seconds
+[2024.06.26-11.52.14:566][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2024.06.26-11.52.14:566][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2024.06.26-11.52.14:566][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.06.26-11.52.15:322][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.06.26-11.52.15:336][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.06.26-11.52.16:001][  0]SourceControl: Source control is disabled
+[2024.06.26-11.52.16:001][  0]SourceControl: Source control is disabled
+[2024.06.26-11.52.16:002][  0]SourceControl: Source control is disabled
+[2024.06.26-11.52.16:003][  0]SourceControl: Source control is disabled
+[2024.06.26-11.52.16:139][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.06.26-11.52.16:194][  0]LogOcInput: OculusInput pre-init called
+[2024.06.26-11.52.16:311][  0]LogEngine: Initializing Engine...
+[2024.06.26-11.52.16:311][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.06.26-11.52.16:312][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2024.06.26-11.52.16:312][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2024.06.26-11.52.16:312][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2024.06.26-11.52.16:313][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2024.06.26-11.52.16:489][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.06.26-11.52.16:497][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.06.26-11.52.16:515][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.06.26-11.52.16:535][  0]LogInit: FAudioDevice initialized.
+[2024.06.26-11.52.16:535][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.06.26-11.52.16:600][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/julia/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2024.06.26-11.52.16:603][  0]LogInit: Texture streaming: Enabled
+[2024.06.26-11.52.16:614][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.06.26-11.52.16:625][  0]LogInit: Transaction tracking system initialized
+[2024.06.26-11.52.16:638][  0]BlueprintLog: New page: Editor Load
+[2024.06.26-11.52.16:677][  0]LocalizationService: Localization service is disabled
+[2024.06.26-11.52.17:026][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2024.06.26-11.52.17:026][  0]LogCook: Display: Mobile HDR setting 0
+[2024.06.26-11.52.17:026][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2024.06.26-11.52.17:026][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2024.06.26-11.52.17:026][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2024.06.26-11.52.17:026][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2024.06.26-11.52.17:027][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2024.06.26-11.52.17:044][  0]LogFileCache: Scanning file cache for directory 'D:/unreal engine/project/dwarfshooter/Content/' took 0.02s
+[2024.06.26-11.52.17:122][  0]SourceControl: Source control is disabled
+[2024.06.26-11.52.17:122][  0]Cmd: MAP LOAD FILE="../../../../../unreal engine/project/dwarfshooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.26-11.52.17:123][  0]LightingResults: New page: Lighting Build
+[2024.06.26-11.52.17:124][  0]MapCheck: New page: Map Check
+[2024.06.26-11.52.17:124][  0]LightingResults: New page: Lighting Build
+[2024.06.26-11.52.17:173][  0]LogLinker: Warning: Asset '../../../../../unreal engine/project/dwarfshooter/Content/Characters/Hero/Weapons/Textures/MagGunT1_section.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2024.06.26-11.52.17:377][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.06.26-11.52.17:384][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.26-11.52.17:405][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.26-11.52.17:405][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.078ms to complete.
+[2024.06.26-11.52.17:405][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.283
+[2024.06.26-11.52.17:488][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.26-11.52.17:495][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.26-11.52.17:501][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.26-11.52.17:506][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.26-11.52.17:509][  0]LogCollectionManager: Loaded 0 collections in 0.000785 seconds
+[2024.06.26-11.52.17:549][  0]LogFileCache: Scanning file cache for directory 'D:/unreal engine/project/dwarfshooter/Saved/Collections/' took 0.01s
+[2024.06.26-11.52.17:549][  0]LogFileCache: Scanning file cache for directory 'D:/unreal engine/project/dwarfshooter/Content/Developers/julia/Collections/' took 0.01s
+[2024.06.26-11.52.17:549][  0]LogFileCache: Scanning file cache for directory 'D:/unreal engine/project/dwarfshooter/Content/Collections/' took 0.01s
+[2024.06.26-11.52.17:549][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2024.06.26-11.52.17:562][  0]LogContentBrowser: Native class hierarchy populated in 0.0133 seconds. Added 2651 classes and 620 folders.
+[2024.06.26-11.52.17:567][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2024.06.26-11.52.17:569][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.06.26-11.52.17:570][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.06.26-11.52.17:571][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.06.26-11.52.17:571][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.06.26-11.52.17:572][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.06.26-11.52.17:572][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.06.26-11.52.17:573][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.06.26-11.52.17:574][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.06.26-11.52.17:574][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.06.26-11.52.17:575][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.06.26-11.52.17:575][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.06.26-11.52.17:576][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.06.26-11.52.17:576][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.06.26-11.52.17:577][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.06.26-11.52.17:578][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.06.26-11.52.17:579][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.06.26-11.52.17:580][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.06.26-11.52.17:581][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.06.26-11.52.17:582][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.06.26-11.52.17:583][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.06.26-11.52.17:583][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.06.26-11.52.17:584][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.06.26-11.52.17:585][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.06.26-11.52.17:586][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.06.26-11.52.17:587][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.06.26-11.52.17:587][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.06.26-11.52.17:630][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2024.06.26-11.52.17:633][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2024.06.26-11.52.18:598][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2024.06.26-11.52.18:629][  0]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.06.26-11.52.18:633][  0]LogSlate: Took 0.000656 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.06.26-11.52.18:639][  0]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.06.26-11.52.18:721][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.dwarfshooter
+[2024.06.26-11.52.18:721][  0]LogTemp: CWD: D:\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2024.06.26-11.52.18:721][  0]LogTemp: Initial Dir: D:\Epic Games\UE_4.21
+[2024.06.26-11.52.18:721][  0]LogTemp: Env CWD: D:\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2024.06.26-11.52.18:721][  0]LogTemp: BranchPath = DESKTOP-D2D3GEK/D/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = DESKTOP-D2D3GEK/D/Epic Games/UE_4.21/Engine/Binaries
+[2024.06.26-11.52.18:721][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\julia\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2024.06.26-11.52.18:721][  0]LogRenderer: Reallocating scene render targets to support 1272x576 Format 10 NumSamples 1 (Frame:1).
+[2024.06.26-11.52.18:815][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2024.06.26-11.52.18:816][  0]LogLoad: (Engine Initialization) Total time: 8.93 seconds
+[2024.06.26-11.52.18:816][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.06.26-11.52.18:874][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.06.26-11.52.18:903][  0]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.06.26-11.52.18:956][  1]LogAssetRegistry: Asset discovery search completed in 5.1825 seconds
+[2024.06.26-11.52.18:957][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2024.06.26-11.52.18:957][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
+[2024.06.26-11.52.20:519][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.06.26-11.56.59:867][549]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2024.06.26-11.56.59:867][549]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
